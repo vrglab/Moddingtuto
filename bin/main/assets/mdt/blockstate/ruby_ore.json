@@ -1,0 +1,6 @@
+{
+    "variants": 
+    {
+        "": { "model": "mdt:block/ruby_ore" }
+    }
+}

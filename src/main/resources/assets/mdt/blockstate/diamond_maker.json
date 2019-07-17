@@ -1,0 +1,6 @@
+{
+    "variants": 
+    {
+        "": { "model": "mdt:block/diamond_maker" }
+    }
+}

@@ -1,0 +1,39 @@
+
+modLoader="javafml" 
+@Mod it will be the forge version
+loaderVersion="[25,)" (24 is current forge version)
+individual mod loader
+
+
+[[mods]] 
+modId="modingtutor" 
+version="0.1"
+displayName="Moding Tutor" 
+specification <here>
+updateJSONURL="http://myurl.me/" 
+displayURL="http://example.com/" 
+logoFile="examplemod.png" #optional
+credits="Thanks for this harry talks " #optional
+authors="vrglab" #optional
+description='''
+these mod is my first and withe a help of a video from youtuber harry talks
+'''
+modid. Dependencies are optional.
+[[dependencies.mdt]] #optional
+    
+    modId="modingtutor" #mandatory
+        mandatory=true #mandatory
+    
+    versionRange="[25,)" #mandatory
+    
+AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+# Here's another dependency
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.13.2]"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "mdt:block/crafter_front",
+        "down": "minecraft:block/planks",
+        "up": "mdt:block/crafter_top",
+        "north": "mdt:block/crafter__front",
+        "east": "mdt:block/crafter_side",
+        "south": "mdt:block/crafter__front",
+        "west": "mdt:block/crafter_side"
+    }
+}

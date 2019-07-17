@@ -1,0 +1,40 @@
+{
+    //items
+ "item.mdt.tutorial_item": "Ruby",
+ "item.mdt.ashes": "Ashes",
+ "item.mdt.ashes_on_fire": "Ashes on fire",
+ "item.mdt.ashes_on_fire1": "Super ashes on fir",
+ "item.mdt.diamond_ashes": "Diamond ashes",
+ "item.mdt.diamond_nugget": "Diamond nugget",
+ "item.mdt.ruby_inggot": "Ruby inggot",
+ 
+    
+  //blocks
+ "block.mdt.ruby_block": "Ruby block",
+ "block.mdt.ruby_ore": "Ruby ore",
+    
+    
+    //groups
+ "itemGroup.More_Items": "More items",
+ 
+    
+    //tools
+    "item.mdt.ruby_axe": "Ruby axe",
+    "item.mdt.ruby_hoe": "Ruby hoe",
+    "item.mdt.ruby_pickaxe": "Ruby pickaxe",
+    "item.mdt.ruby_shovel": "Ruby shovel",
+    "item.mdt.ruby_sword": "Ruby sword",
+    
+    //armor
+    
+    "item.mdt.ruby_helmet": "Ruby helme",
+    "item.mdt.ruby_chestplate": "Ruby chestplate",
+    "item.mdt.ruby_leggings": "Ruby leggings",
+    "item.mdt.ruby_boots": "Ruby boots"
+    
+    //functionallBlocks
+    "item.mdt.ore_furnec_front": "ore furnace"
+    "item.mdt.crafter": "Crafter"
+    "item.mdt.diamond_maker": "Diamond Maker"
+    
+}

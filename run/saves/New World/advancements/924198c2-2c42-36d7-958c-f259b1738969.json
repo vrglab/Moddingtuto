@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest_hills": "2019-05-05 11:41:25 +0200",
+      "plains": "2019-05-05 11:40:43 +0200"
+    },
+    "done": false
+  }
+}

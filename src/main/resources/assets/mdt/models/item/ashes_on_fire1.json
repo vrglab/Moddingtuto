@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": 
+    {
+        "layer0": "mdt:item/ashes_on_fire1"
+    }
+}

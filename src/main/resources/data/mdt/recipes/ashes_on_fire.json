@@ -1,0 +1,10 @@
+{
+   "type": "minecraft:smelting"
+   "ingredient": { "tags": "mdt:ashes"}
+  
+   
+   "result": {"item": "mdt:ashes_on_fire"},
+   "count": 1
+   "exprience": 4.5,
+   "cookingTime":300
+}

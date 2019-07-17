@@ -1,0 +1,21 @@
+{
+   "type": "minecraft:crafting_shaped"
+   
+   "pattern":
+   [
+        "   ",
+        " IW",
+        "   ",
+   ],
+   
+   "key":
+   {
+      "I": { "item": "mdt:ashes_on_fire"},
+      "I": { "item": "mdt:ashes_on_fire1"},
+      "W": { "item": "minecraft:water_bucket"}
+       
+   },
+   
+   "result": {"item": "minecraft:diamond"},
+   "count": 1
+}
